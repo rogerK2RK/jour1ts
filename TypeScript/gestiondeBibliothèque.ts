@@ -115,8 +115,6 @@ class Bibliotheque {
     }
 }
 
-
-
 const biblio = new Bibliotheque();
 
 const livre1 = new Livre("Les Misérables", "Victor Hugo", 1862);
